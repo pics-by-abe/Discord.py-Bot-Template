@@ -5,5 +5,4 @@
 
 ## Requirements:
 
-#### discord.py 
-#### ```pip install discord.py```
+#### discord.py ```pip install discord.py```
