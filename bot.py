@@ -18,8 +18,4 @@ async def on_ready():
 
     print("Ready to rumble")
 
-
-
-
-bot.run("NDk3NDI3NTE0ODg5ODYzMTY5.W7YveQ.k0BfQguXW4i9-nHYUju1ATRVXkk")
-#bot.run("Your Token from: https://discord.com/developers/applications")
+bot.run("Your Token from: https://discord.com/developers/applications")
